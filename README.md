@@ -39,5 +39,5 @@ The script will:
 
 The KML file can be opened in Google Earth or Google Maps to visualize the IP locations.
 
-##Acknowledgements
+## Acknowledgements
 - This project is based on the tutorial "Python Cybersecurity: Network Tracking Using Wireshark and Google Maps" by Vinsloev Academy.
